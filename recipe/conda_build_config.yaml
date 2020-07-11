@@ -8,3 +8,4 @@ cuda_compiler_version:
   - None
 python:
   - 3.6
+  - 3.7
